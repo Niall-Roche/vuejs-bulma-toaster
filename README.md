@@ -1,5 +1,7 @@
 # VueJS Toaster With Bulma
 
+Click [here](https://niall-roche.github.io/vuejs-bulma-toaster/) for a demo
+
 ## Project setup
 ```
 npm install
