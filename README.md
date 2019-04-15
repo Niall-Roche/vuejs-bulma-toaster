@@ -1,4 +1,4 @@
-# vue-bulma-toaster
+# VueJS Toaster With Bulma
 
 ## Project setup
 ```
